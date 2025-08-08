@@ -5,4 +5,4 @@ A documentation of my progress in the Microsoft Power BI Data Analyst Profession
 - Notes
 - My Power BI dashboards
 - SQL practice queries
-- Capstone project (Coming soon!)
+- Capstone project 
